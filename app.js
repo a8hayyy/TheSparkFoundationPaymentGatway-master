@@ -12,7 +12,7 @@ const main = document.querySelector("main");
 
 declare();
 
-let dark = false;
+let dark = true;
 
 function toggleAnimation() {
   // Clone the wrapper
